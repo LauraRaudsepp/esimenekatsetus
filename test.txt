@@ -1,0 +1,7 @@
+Absoluutne tee:
+C:\User\Documents\jutuke.txt
+
+Relatiivne tee:
+User\Documents\jutuke.txt
+User\Picmkdir sissejuhatus_erialagit add.tures\pildike.png
+Programs\Games
